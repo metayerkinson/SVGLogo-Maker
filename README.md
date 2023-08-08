@@ -1,6 +1,4 @@
-# SVG-Logo-Generator Node.js and ES6+ Work
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## User Story
 
@@ -25,11 +23,7 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
-## Mock-Up
 
-The following image shows a mock-up of the generated SVG given the following input entered by the user: SVG for the text, white for the text color, circle from the list of shapes, and green for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
-
-Image showing a green circle with white text that reads "SVG.
 
 ## Description
 
@@ -39,9 +33,6 @@ This application was built as a way to allow freelance web developers to create 
 
 ...
 
-## Screenshots
-
-...
 
 ## Technologies Used
 
@@ -64,9 +55,7 @@ This project is powered by Node.js v16, utilizes inquirer v8.2.4 (node package m
 
 ## Credits
 
-Worked with tutor Funbi to help get me started on this assignment. We pseudo-coded the general outline together and she helped me put together the unit testing portion of this assignment.
-
-## Features
+Worked with tutor Funbi to help get me started on this assignment. We pseudo-coded the general outline together and she helped me put together the unit testing portion of atures
 
 Features of this application include the users ability to generate logos quickly and easily through the use of SVG files, entirely from the command line. No UI (user interface) needed, and no front end tools needed.
 
@@ -86,6 +75,3 @@ To run unit testing, open the terminal, and use the command npm run test.
 
 As of now there is one test suite with three tests. The test suite is checking for a render() method to return a string for the corresponding SVG file with the given shape color.
 
-## License
-
-NOTICE: This application is covered under the MIT License
